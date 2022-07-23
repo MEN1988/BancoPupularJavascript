@@ -1,1 +1,1 @@
-# BancoPupularJavascript
+Proyecto realizado para el curso de Javascript: Herencia e Interfaces en Orientación a Objetos, impartido por la plataforma educativa de E-learning de la empresa tecnologica Alura Latam del Proyecto One Oracle Next Education. Julio 2.022.
