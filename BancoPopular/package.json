@@ -1,0 +1,12 @@
+{
+  "name": "cuentasbancopopular",
+  "version": "1.0.0",
+  "description": "Administración cuentas corrientes Banco Popular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Curso Alura Emanuel",
+  "license": "ISC",
+  "type": "module"
+}
